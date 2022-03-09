@@ -1,0 +1,31 @@
+.buttons-div {
+    margin: 20px 50px;;
+}
+.btn {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.d-container {
+    margin: auto;
+    width: 50em;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.dDiv {
+    text-align: center;
+    font-size: 3em;
+    width: 70px;
+    height: 70px;
+    border: 2px solid red;
+    margin: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+:hover.dDiv {
+    color: white;
+    background-color: black;
+}
